@@ -1,0 +1,1173 @@
+hh_num,community_factor,age,sex_factor,race_factor,marriage_factor,housesize,property_factor,energy_factor,income,waterperson_factor,drinking,multiple,share,treat_domestic2,treat_drinking2,storage,cistern_elevated2,days_noservice,hours_noservice,intermittency
+1,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+2,Timbire,>60,hombre,mestizo,casado.o.union.libre,Large (more than 6),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+5,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,single,yes,treatment,treatment,store,yes,6,23,167
+5,Timbire,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+7,Timbire,36-46,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+8,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,3,18,144
+8,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,12,84
+9,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,18,150
+9,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+10,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,6,21,165
+11,Timbire,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+12,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+13,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+15,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+16,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,treatment,store,yes,5,12,144
+16,Timbire,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+17,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,treatment,none,store,no,7,24,168
+17,Timbire,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+18,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,5,20,160
+18,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+20,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+23,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+24,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,12,84
+25,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,5,23,166
+26,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+27,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,6,0,144
+27,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+28,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+29,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+31,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,6,23,167
+32,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+32,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+33,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+34,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+35,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,treatment,treatment,store,no,6,20,164
+35,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+36,Timbire,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+37,Timbire,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,12,84
+38,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult woman,No bottled water,single,no,treatment,treatment,store,no,4,21,159
+40,Timbire,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+41,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,2,14,118
+42,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+43,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+46,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,2,21,153
+47,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,treatment,treatment,store,no,5,22,164
+49,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,yes,5,20,160
+49,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+50,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,16,112
+50,Timbire,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+51,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,19,153
+51,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+52,Timbire,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+54,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+55,Borbon,<36,mujer/otro,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,7,24,168
+55,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+56,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,5,22,164
+56,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,yes,0,12,84
+57,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,yes,0,12,84
+58,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,16,152
+58,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+59,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,treatment,store,no,4,0,96
+59,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+60,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+60,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+61,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,2,18,138
+61,Timbire,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+62,Timbire,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+63,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+64,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+65,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,multiple,no,none,none,store,no,6,18,162
+66,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,multiple,no,treatment,none,store,no,4,0,96
+66,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+67,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,6,12,156
+68,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,6,12,156
+69,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,18,126
+69,Timbire,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+70,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+70,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+71,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,>394,Adult woman,Bottled water,multiple,no,treatment,none,store,no,4,12,132
+71,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+72,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,4,0,96
+72,Timbire,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+73,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,treatment,treatment,store,no,4,21,159
+73,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+75,Timbire,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+76,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,19,148
+76,Timbire,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+77,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,6,12,156
+78,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+79,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+80,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,5,12,144
+81,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,treatment,treatment,store,no,4,6,114
+82,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+83,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+84,Timbire,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+85,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+86,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+87,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,21,159
+88,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,14,138
+88,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+89,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,2,19,143
+89,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+90,Timbire,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+91,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+92,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,no store,no,3,12,120
+92,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+93,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,treatment,treatment,store,no,4,16,144
+93,Timbire,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+94,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,no store,yes,4,0,96
+95,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+97,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,3,19,148
+97,Timbire,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+98,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,3,18,144
+99,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,yes,none,none,no store,no,0,12,84
+99,Timbire,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+101,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+102,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,16,152
+102,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+103,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,19,153
+103,Timbire,47-60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+105,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+106,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,no store,no,3,0,72
+108,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+110,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,treatment,none,store,no,3,16,136
+111,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+114,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+115,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,none,store,no,2,18,138
+115,Borbon,<36,hombre,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,none,store,no,2,18,138
+115,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+116,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+116,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+117,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,18,150
+117,Timbire,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,13,91
+118,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+118,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,1,13,102
+119,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,1,12,96
+119,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,4,0,96
+120,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,16,144
+120,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,11,77
+122,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+124,Timbire,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,store,no,1,11,90
+125,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,12,96
+126,Borbon,36-46,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,yes,4,19,153
+126,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,multiple,no,none,treatment,no store,no,0,11,77
+128,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,3,16,136
+128,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+128,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+129,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,single,no,treatment,treatment,no store,no,4,20,156
+130,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,4,16,144
+133,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,5,18,156
+134,Timbire,47-60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,1,12,96
+135,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,yes,4,17,147
+137,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,3,18,144
+137,Timbire,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,treatment,store,no,0,14,98
+139,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,4,19,153
+139,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,13,91
+141,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,treatment,treatment,store,no,4,18,150
+141,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,1,12,96
+142,Timbire,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,treatment,treatment,store,no,1,11,90
+143,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,3,16,136
+143,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,treatment,store,no,0,14,98
+144,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,16,136
+144,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,14,98
+145,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,4,16,144
+147,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,14,98
+149,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,treatment,store,no,4,16,144
+150,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,16,152
+151,Borbon,>60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+151,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,11,90
+152,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,0,12,84
+153,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,0,12,84
+154,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,1,14,108
+155,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,no store,no,7,24,168
+157,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,16,152
+157,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,no store,no,0,11,77
+158,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,16,144
+158,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,15,105
+160,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,treatment,store,no,1,12,96
+161,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,treatment,store,no,4,22,162
+161,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,1,12,96
+161,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,1,12,96
+162,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,none,none,no store,no,1,12,96
+163,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,12,96
+165,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,4,20,156
+165,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+166,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,treatment,store,no,0,11,77
+167,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,yes,6,23,167
+168,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,treatment,no store,no,1,11,90
+169,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,18,150
+169,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,1,11,90
+169,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,4,9,123
+172,Timbire,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,treatment,store,no,0,10,70
+173,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,16,136
+173,Timbire,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,multiple,no,none,treatment,no store,no,0,14,98
+174,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,11,77
+174,Maldonado,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,9,123
+175,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,18,150
+176,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,11,77
+176,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,4,4,108
+177,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,13,91
+177,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,yes,1,9,78
+178,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,11,77
+178,Maldonado,36-46,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,6,23,167
+178,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,yes,treatment,none,store,no,3,14,128
+179,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,12,120
+179,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+180,Borbon,47-60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,21,156
+180,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,0,10,70
+181,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,3,12,120
+181,Timbire,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,yes,none,none,no store,no,0,13,91
+181,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+183,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,6,18,162
+183,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,12,96
+183,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,9,123
+184,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,multiple,no,none,none,store,no,3,16,136
+184,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,<= $394,Adult woman,No bottled water,single,no,none,none,no store,no,0,10,70
+184,Maldonado,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,2,22,158
+185,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,10,70
+185,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,2,23,163
+186,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,4,21,159
+187,Timbire,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,13,91
+187,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+188,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,No bottled water,multiple,no,none,treatment,store,no,1,11,90
+188,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,6,23,167
+190,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,16,144
+190,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,13,91
+190,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+191,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,11,77
+191,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,5,0,120
+192,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,19,133
+192,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,14,108
+193,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+193,Maldonado,47-60,hombre,mestizo,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,6,23,167
+194,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,14,128
+194,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,10,70
+195,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+195,Maldonado,36-46,hombre,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,1,9,78
+195,Maldonado,36-46,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,1,9,78
+196,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,14,128
+196,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,11,77
+198,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,3,22,160
+198,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,none,treatment,no store,no,0,14,98
+199,Timbire,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,No bottled water,multiple,no,none,none,no store,no,1,12,96
+199,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,2,12,108
+200,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,treatment,none,no store,no,0,13,91
+201,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,12,84
+201,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,23,166
+202,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,no,3,18,144
+202,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,none,treatment,no store,no,0,13,91
+202,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,treatment,treatment,no store,no,1,22,156
+203,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,0,48
+203,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,22,164
+203,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+204,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,9,108
+204,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,treatment,store,no,4,18,150
+204,Maldonado,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,0,22,154
+205,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,9,108
+205,Timbire,36-46,hombre,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,>394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,13,91
+205,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,3,22,160
+206,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,treatment,store,no,3,14,128
+206,Maldonado,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,22,164
+207,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,none,treatment,store,no,0,14,98
+207,Maldonado,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,3,21,156
+208,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,yes,4,22,162
+208,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,6,23,167
+209,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,treatment,no store,no,1,14,108
+210,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,9,108
+210,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,12,84
+210,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,1,21,150
+211,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+212,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,1,21,150
+213,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,14,138
+213,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,0,22,154
+214,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,2,21,153
+216,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,yes,3,4,88
+216,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,yes,3,4,88
+216,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+216,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,treatment,treatment,store,no,0,23,161
+217,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,2,4,68
+217,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,1,22,156
+218,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,1,0,24
+218,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,1,14,108
+218,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,0,22,154
+219,Maldonado,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,treatment,treatment,store,no,2,20,148
+220,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,2,12,108
+220,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,No bottled water,single,no,treatment,none,store,no,4,21,159
+221,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,treatment,store,no,1,14,108
+222,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,1,13,102
+223,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,3,14,128
+223,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,2,14,118
+224,Timbire,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,treatment,store,no,1,10,84
+227,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,2,4,68
+227,Timbire,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,11,77
+228,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,1,13,102
+229,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+230,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,1,14,108
+230,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,4,22,162
+231,Timbire,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+232,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+232,Timbire,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,14,108
+233,Timbire,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,11,77
+233,Maldonado,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,22,160
+234,Timbire,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,11,77
+235,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,7,24,168
+235,Maldonado,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,4,9,123
+236,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,6,12,156
+236,Timbire,36-46,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,1,13,102
+239,Timbire,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,1,13,102
+240,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+240,Maldonado,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+241,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,3,20,152
+241,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,treatment,none,store,no,0,21,147
+242,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,2,21,153
+243,Maldonado,47-60,hombre,mestizo,soltero,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+244,Maldonado,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,0,23,161
+245,Maldonado,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,23,166
+246,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,0,12,84
+247,Maldonado,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,2,22,158
+248,Borbon,<36,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,17,154
+249,Maldonado,>60,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,0,21,147
+250,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+250,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,14,98
+250,Maldonado,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,0,23,161
+251,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,15,105
+253,Timbire,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,no store,no,1,11,90
+253,Maldonado,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,22,154
+254,Timbire,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,none,store,no,1,13,102
+255,Maldonado,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,treatment,store,no,0,22,154
+257,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+257,Maldonado,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,no store,no,0,23,161
+263,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,2,23,163
+266,Borbon,36-46,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+266,Timbire,36-46,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,0,12,84
+268,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+269,Timbire,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,12,84
+269,Maldonado,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,0,23,161
+270,Maldonado,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,22,154
+271,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,5,20,160
+271,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,5,20,160
+271,Maldonado,36-46,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,0,23,161
+272,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,no,3,22,160
+274,Maldonado,36-46,mujer/otro,mestizo,soltero,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,0,22,154
+275,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+276,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+276,Maldonado,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,no store,no,0,22,154
+277,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,12,120
+281,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,2,9,93
+282,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,0,23,161
+283,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,2,12,108
+283,Maldonado,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,0,23,161
+284,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,none,store,no,0,23,161
+285,Maldonado,>60,mujer/otro,mestizo,soltero,Small (up to 3),No,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,no store,no,2,22,158
+286,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,0,23,161
+287,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,5,19,158
+287,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,0,23,161
+288,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,9,108
+289,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,12,120
+289,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,0,23,161
+290,Maldonado,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,no store,no,0,23,161
+293,Maldonado,<36,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,0,23,161
+294,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,3,14,128
+300,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,4,68
+302,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,4,88
+302,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,3,9,108
+304,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,0,72
+304,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,yes,3,4,88
+305,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,4,88
+306,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,0,72
+306,Maldonado,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+307,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,16,144
+308,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,18,150
+310,Maldonado,36-46,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+312,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,multiple,no,none,none,store,no,4,12,132
+312,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+313,Borbon,>60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,no,3,12,120
+314,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+318,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,3,4,88
+318,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+321,Maldonado,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+322,Maldonado,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,9,93
+323,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,yes,2,4,68
+323,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,9,93
+324,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,yes,2,0,48
+324,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,3,8,104
+325,Maldonado,47-60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,9,123
+326,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Large (more than 6),Yes,Continuous,>394,Adult woman,Bottled water,multiple,no,none,none,store,no,2,12,108
+327,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,2,4,68
+328,Maldonado,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+329,Borbon,>60,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,4,68
+329,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+330,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,0,48
+330,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+331,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,yes,3,0,72
+332,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,9,93
+333,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,14,128
+333,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,4,9,123
+335,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,3,9,108
+336,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,no,3,9,108
+337,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,12,120
+339,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,3,14,128
+339,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+340,Maldonado,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,4,22,162
+341,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,20,152
+346,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,0,24,168
+347,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,12,108
+347,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,1,22,156
+348,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,9,108
+348,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+349,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,yes,0,23,161
+349,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,12,108
+349,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,16,136
+350,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+351,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,9,63
+351,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,yes,0,21,147
+356,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,store,no,4,18,150
+357,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,19,153
+359,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,20,160
+360,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,12,132
+360,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,1,22,156
+363,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,19,153
+363,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,no store,no,0,23,161
+366,Borbon,<36,hombre,mestizo,soltero,Medium (4-6),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,4,17,147
+366,Maldonado,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,0,22,154
+367,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,0,23,161
+368,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,2,22,158
+370,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,19,148
+373,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,3,12,120
+375,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,18,150
+377,Maldonado,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,0,23,161
+380,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+380,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,0,22,154
+381,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,yes,3,21,156
+382,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,5,23,166
+382,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,yes,3,19,148
+383,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,5,18,156
+383,Maldonado,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,22,160
+384,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,5,0,120
+384,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,22,154
+385,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,0,22,154
+385,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,0,22,154
+386,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,yes,1,22,156
+386,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Large (more than 6),No,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+387,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,No bottled water,single,no,treatment,treatment,no store,no,6,18,162
+387,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,1,22,156
+388,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,1,22,156
+388,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,yes,3,19,148
+389,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,0,22,154
+390,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,no store,no,2,16,128
+390,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,0,23,161
+392,Maldonado,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,22,154
+393,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,4,18,150
+394,Maldonado,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,no store,no,0,22,154
+396,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,22,154
+399,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,no store,yes,4,22,162
+400,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,22,162
+402,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+403,Maldonado,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,5,23,166
+403,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+403,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+406,Maldonado,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,22,164
+407,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,multiple,no,treatment,none,store,no,5,18,156
+407,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,21,156
+409,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,6,19,163
+410,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+410,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,23,166
+412,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+413,Maldonado,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,6,23,167
+415,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,17,147
+415,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,23,166
+416,Maldonado,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+419,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,23,166
+420,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,23,165
+421,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,18,150
+423,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,no store,no,3,17,140
+423,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+425,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,4,19,153
+425,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,no,4,22,162
+426,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,3,18,144
+428,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,22,164
+428,Borbon,>60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,4,18,150
+429,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,yes,4,20,156
+430,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,no store,no,3,17,140
+430,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,3,22,160
+431,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,no,4,18,150
+432,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,4,20,156
+433,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,3,17,140
+433,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,2,23,163
+436,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+437,Maldonado,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,5,23,166
+438,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,3,21,156
+439,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,treatment,treatment,store,no,5,18,156
+440,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,3,18,144
+441,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+443,Maldonado,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Large (more than 6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,6,23,167
+445,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,15,141
+445,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,15,141
+446,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,yes,4,20,156
+448,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+450,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,19,143
+451,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+453,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+463,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,18,150
+464,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,5,18,156
+464,Maldonado,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+465,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,9,93
+466,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,20,160
+467,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,treatment,treatment,store,no,4,0,96
+468,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,yes,5,20,160
+468,Maldonado,>60,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,3,21,156
+469,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,single,no,treatment,treatment,store,no,4,18,150
+469,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,yes,2,9,93
+470,Borbon,47-60,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,4,16,144
+470,Maldonado,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+471,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,0,96
+473,Maldonado,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,9,108
+474,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,19,148
+474,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+475,Borbon,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,no,4,18,150
+476,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,20,152
+477,Maldonado,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,9,78
+478,Maldonado,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,9,93
+481,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,2,16,128
+481,Maldonado,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,1,22,156
+482,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,treatment,store,yes,5,17,154
+483,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+485,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,5,19,158
+486,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,yes,3,17,140
+490,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+491,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,yes,0,12,84
+493,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,yes,5,18,156
+493,Maldonado,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,no,2,22,158
+494,Maldonado,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,yes,0,22,154
+496,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,16,144
+496,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,2,22,158
+497,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,no store,no,4,17,147
+498,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,16,144
+498,Maldonado,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,2,22,158
+501,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,19,153
+502,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,4,16,144
+504,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,yes,4,20,156
+506,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,9,93
+509,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,1,22,156
+510,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,4,20,156
+511,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,14,128
+515,Borbon,>60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,5,20,160
+516,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,19,153
+517,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,4,18,150
+517,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,23,166
+520,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,treatment,store,yes,3,19,148
+521,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,no store,yes,3,21,156
+522,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,3,21,156
+523,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,treatment,no store,yes,2,20,148
+526,Borbon,>60,hombre,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,0,17,119
+529,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,3,17,140
+532,Maldonado,47-60,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,1,9,78
+533,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,1,20,144
+533,Maldonado,>60,hombre,mestizo,soltero,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,treatment,none,store,no,1,9,78
+535,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,1,20,144
+535,Maldonado,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,2,0,48
+536,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,23,165
+537,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,22,160
+538,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,1,20,144
+539,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+540,Maldonado,<36,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,no store,no,4,22,162
+543,Maldonado,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,21,156
+544,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,23,164
+544,Maldonado,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,yes,1,9,78
+545,Borbon,47-60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,1,19,138
+546,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+547,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,22,160
+553,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,18,144
+555,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,6,22,166
+557,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,1,20,144
+559,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+560,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,5,23,166
+561,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+562,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,1,19,138
+564,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+565,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,23,165
+566,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,5,23,166
+567,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,5,23,166
+568,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,5,23,166
+569,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+569,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+573,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,3,21,156
+575,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,yes,4,22,162
+578,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,22,160
+579,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,22,160
+582,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+600,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,7,24,168
+604,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,20,156
+607,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,no,6,9,153
+610,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,yes,4,22,162
+611,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,3,19,148
+617,Borbon,>60,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,22,162
+621,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+622,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,12,144
+623,Borbon,<36,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,21,159
+637,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,19,158
+638,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,6,21,165
+643,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,7,24,168
+644,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,23,166
+653,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,store,no,7,24,168
+656,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,treatment,no store,yes,5,18,156
+659,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,yes,3,19,148
+661,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,4,20,156
+664,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,21,162
+667,Borbon,>60,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,no store,no,5,22,164
+668,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,3,21,156
+671,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,20,160
+672,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+673,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,6,12,156
+674,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,No bottled water,single,no,treatment,treatment,store,yes,7,24,168
+675,Borbon,<36,mujer/otro,mestizo,soltero,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+683,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+683,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,multiple,yes,none,none,store,no,6,22,166
+684,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,multiple,no,treatment,none,store,no,5,21,162
+685,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,6,22,166
+686,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,5,21,162
+687,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,yes,3,21,156
+689,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,store,no,5,18,156
+694,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,5,20,160
+695,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,no,6,20,164
+696,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,yes,5,22,164
+697,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,no,4,19,153
+698,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,14,138
+698,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,no,4,22,162
+699,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+701,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+702,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,no,6,21,165
+704,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,20,160
+710,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+711,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+713,Borbon,47-60,mujer/otro,mestizo,soltero,Small (up to 3),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+715,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,7,24,168
+720,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,0,72
+724,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,3,18,144
+726,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,3,18,144
+727,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,4,16,144
+728,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,20,156
+729,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,no store,yes,4,17,147
+731,Borbon,>60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,18,150
+733,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,20,152
+743,Borbon,>60,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+756,Borbon,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,no store,no,2,0,48
+759,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+764,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,0,19,133
+767,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,6,19,163
+770,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,2,14,118
+776,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,store,no,7,24,168
+778,Borbon,36-46,hombre,mestizo,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,5,18,156
+778,Borbon,<36,hombre,mestizo,soltero,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,5,18,156
+778,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+783,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult woman,No bottled water,multiple,no,none,none,no store,yes,0,19,133
+785,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,treatment,no store,yes,4,20,156
+788,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+790,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+792,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,14,138
+795,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,0,22,154
+797,Borbon,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,20,152
+798,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,23,164
+803,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+809,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,4,20,156
+810,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,yes,3,18,144
+814,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,treatment,no store,no,2,19,143
+816,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,4,19,153
+817,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,No bottled water,multiple,no,none,treatment,store,no,2,19,143
+820,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,treatment,store,no,4,20,156
+821,Borbon,36-46,mujer/otro,mestizo,soltero,Small (up to 3),No,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,3,19,148
+821,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,yes,3,19,148
+829,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Continuous,>394,Adult man,No bottled water,multiple,no,none,none,store,no,2,20,148
+830,Borbon,>60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,no,3,23,164
+832,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,19,138
+839,Borbon,47-60,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,single,no,treatment,treatment,store,no,4,20,156
+841,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,treatment,store,no,4,22,162
+842,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,treatment,store,yes,4,18,150
+844,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,1,18,132
+845,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,yes,3,21,156
+847,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,5,23,166
+849,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,6,21,165
+850,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,2,9,93
+852,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,14,138
+853,Borbon,47-60,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,3,18,144
+856,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,12,120
+857,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,19,153
+858,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+862,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,18,156
+864,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+866,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,7,24,168
+867,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+872,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,16,136
+873,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,5,21,162
+875,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,yes,3,18,144
+876,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+879,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,22,164
+880,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,6,22,166
+881,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,5,21,162
+882,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+885,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+888,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,7,24,168
+889,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,5,18,156
+891,Borbon,36-46,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+899,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,yes,3,22,160
+902,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,5,21,162
+906,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,21,162
+910,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,5,23,166
+913,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+916,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,6,23,167
+917,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,21,162
+926,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,6,22,166
+926,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,6,22,166
+933,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,treatment,none,store,no,5,20,160
+934,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,19,158
+936,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,19,158
+937,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,treatment,none,store,no,5,23,166
+939,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,21,162
+941,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+942,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+943,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,no store,yes,4,18,150
+946,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,18,150
+948,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,No bottled water,single,no,none,none,store,no,4,23,165
+952,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,23,166
+954,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,18,150
+958,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,20,160
+960,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,23,165
+961,Borbon,<36,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,23,165
+962,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+963,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,2,19,143
+965,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,20,148
+966,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,21,159
+967,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+968,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,yes,4,19,153
+969,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,5,19,158
+970,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,6,22,166
+977,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,4,22,162
+980,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,4,19,153
+983,Borbon,47-60,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,no store,no,5,15,150
+985,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,yes,7,24,168
+986,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,5,20,160
+987,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,treatment,none,store,no,5,21,162
+988,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,5,21,162
+988,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,>394,Adult man,Bottled water,single,no,none,none,no store,no,5,22,164
+989,Borbon,36-46,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,6,20,164
+992,Borbon,>60,hombre,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,2,20,148
+995,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+1005,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+1006,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+1016,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+1022,Borbon,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+1025,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+1031,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+1034,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,2,16,128
+1035,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,>394,Adult woman,Bottled water,single,yes,treatment,none,store,no,2,16,128
+1036,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,2,16,128
+1037,Borbon,36-46,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,2,16,128
+1038,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,2,18,138
+1040,Borbon,36-46,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,5,16,152
+1041,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,6,21,165
+1042,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,16,128
+1044,Borbon,47-60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,2,16,128
+1046,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,2,16,128
+1049,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,no store,no,2,16,128
+1053,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,16,128
+1057,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,no store,no,2,16,128
+1059,Borbon,36-46,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+1062,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,4,18,150
+1065,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,4,19,153
+1067,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,yes,5,18,156
+1070,Borbon,36-46,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,5,24,168
+1072,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,treatment,treatment,no store,yes,3,19,148
+1073,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+1074,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+1075,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,treatment,no store,no,3,21,156
+1077,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,5,21,162
+1078,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,single,no,none,none,no store,no,2,16,128
+1079,Borbon,47-60,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,single,no,none,none,no store,no,0,19,133
+1081,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,>394,Adult woman,No bottled water,single,no,none,treatment,no store,no,4,12,132
+1084,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,6,0,144
+1085,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,yes,treatment,none,store,no,4,19,153
+1088,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,4,22,162
+1089,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,3,23,164
+1094,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,No bottled water,single,no,treatment,treatment,store,no,5,21,162
+1095,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,5,21,162
+1096,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+1099,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,none,no store,no,2,11,103
+1100,Borbon,>60,mujer/otro,mestizo,soltero,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,2,9,93
+1103,Borbon,<36,mujer/otro,mestizo,soltero,Large (more than 6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,21,162
+1105,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+1106,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1108,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,7,24,168
+1109,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,yes,7,24,168
+1110,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+1111,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,23,165
+1114,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,store,no,7,18,168
+1117,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,no,5,0,120
+1118,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,7,24,168
+1121,Borbon,<36,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,no store,no,4,18,150
+1124,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,treatment,store,no,7,24,168
+1128,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,12,144
+1130,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,treatment,store,no,4,22,162
+1133,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,12,144
+1135,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,7,24,168
+1136,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,5,20,160
+1137,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,7,24,168
+1142,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,5,12,144
+1143,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+1145,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,7,24,168
+1146,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,12,132
+1147,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,7,24,168
+1148,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,7,24,168
+1149,Borbon,36-46,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,yes,5,19,158
+1151,Borbon,<36,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+1152,Borbon,<36,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+1159,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+1162,Borbon,36-46,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,treatment,store,yes,6,21,165
+1163,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+1167,Borbon,<36,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,no store,no,7,24,168
+1169,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,18,144
+1171,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,6,22,166
+1172,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,7,24,168
+1177,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,7,24,168
+1180,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+1182,Borbon,36-46,hombre,mestizo,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,21,162
+1184,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,23,166
+1187,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,multiple,no,treatment,none,store,no,5,23,166
+1188,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+1189,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,18,156
+1194,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,treatment,none,store,no,0,17,119
+1209,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,7,24,168
+1211,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,19,133
+1238,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,6,21,165
+1239,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,18,150
+1247,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,7,24,168
+1250,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,treatment,none,store,no,7,24,168
+1251,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,7,24,168
+1273,Borbon,<36,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,5,20,160
+1278,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+1280,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,0,120
+1284,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,>394,Adult man,Bottled water,multiple,no,none,none,store,no,5,21,162
+1292,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+1294,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,20,152
+1300,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,18,138
+1308,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,no store,yes,5,18,156
+1310,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,19,158
+1314,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,7,24,168
+1314,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,7,24,168
+1318,Borbon,47-60,hombre,chachi,casado.o.union.libre,Large (more than 6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,2,19,143
+1320,Borbon,36-46,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,yes,4,18,150
+1321,Borbon,36-46,mujer/otro,chachi,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,2,19,143
+1322,Borbon,47-60,mujer/otro,chachi,soltero,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,7,24,168
+1323,Borbon,36-46,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,1,17,126
+1324,Borbon,>60,hombre,chachi,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+1326,Borbon,<36,hombre,chachi,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,7,24,168
+1327,Borbon,>60,hombre,chachi,casado.o.union.libre,Large (more than 6),Yes,Continuous,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,2,20,148
+1328,Borbon,36-46,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,store,no,5,9,138
+1330,Borbon,36-46,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,2,20,148
+1332,Borbon,36-46,mujer/otro,chachi,casado.o.union.libre,Large (more than 6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,3,22,160
+1336,Borbon,36-46,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,no store,no,4,21,159
+1337,Borbon,<36,hombre,chachi,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,single,no,treatment,none,no store,no,4,22,162
+1337,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,single,no,treatment,none,no store,no,4,22,162
+1340,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,6,20,164
+1343,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,6,20,164
+1344,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,6,20,164
+1345,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1346,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,no store,no,5,19,158
+1347,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,5,21,162
+1351,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,5,21,162
+1352,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,No bottled water,multiple,no,treatment,none,store,no,5,21,162
+1357,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,store,no,7,24,168
+1358,Borbon,36-46,mujer/otro,mestizo,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+1360,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,20,160
+1361,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,4,18,150
+1363,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,20,160
+1364,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,5,20,160
+1365,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,5,18,156
+1368,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,4,18,150
+1373,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,treatment,store,no,6,12,156
+1374,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,none,store,no,6,12,156
+1375,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Continuous,>394,Adult woman,No bottled water,single,no,none,none,store,no,6,0,144
+1376,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,No bottled water,single,no,none,none,no store,no,6,0,144
+1377,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,no store,no,6,9,153
+1378,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,6,0,144
+1379,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,no store,no,5,21,162
+1383,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,6,18,162
+1384,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,5,19,158
+1385,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,no store,no,4,18,150
+1387,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,14,148
+1388,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,treatment,none,store,no,6,0,144
+1389,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,5,9,138
+1392,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,2,17,133
+1393,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,4,19,153
+1395,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,Skipped,Adult man,No bottled water,multiple,no,treatment,treatment,store,no,5,19,158
+1397,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,5,14,148
+1398,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,19,153
+1403,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,5,19,158
+1403,Borbon,>60,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,20,152
+1404,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,4,18,150
+1407,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+1411,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,21,159
+1413,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,5,20,160
+1415,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,5,19,158
+1417,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+1418,Borbon,<36,mujer/otro,mestizo,soltero,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,4,21,159
+1419,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1420,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+1421,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1422,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1423,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1424,Borbon,<36,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,2,18,138
+1425,Borbon,<36,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,2,18,138
+1426,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,3,18,144
+1427,Borbon,<36,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,18,144
+1428,Borbon,36-46,mujer/otro,mestizo,divorced/separated/widowed,Large (more than 6),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,18,144
+1429,Borbon,>60,hombre,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,18,144
+1431,Borbon,47-60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1433,Borbon,<36,hombre,chachi,soltero,Small (up to 3),No,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,2,16,128
+1434,Borbon,47-60,hombre,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,no store,no,3,18,144
+1440,Borbon,36-46,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1443,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,19,148
+1444,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1445,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,19,148
+1449,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1450,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,2,18,138
+1451,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,2,20,148
+1452,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,1,20,144
+1453,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,>394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1457,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,18,144
+1458,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1459,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,3,18,144
+1463,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1465,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,no store,no,3,18,144
+1466,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1468,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1469,Borbon,<36,hombre,chachi,casado.o.union.libre,Large (more than 6),No,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,3,20,152
+1470,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1471,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1472,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,19,148
+1473,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1475,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,18,138
+1476,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,17,133
+1483,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+1484,Borbon,36-46,mujer/otro,mestizo,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,20,156
+1487,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,4,20,156
+1493,Borbon,<36,mujer/otro,mestizo,soltero,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,4,16,144
+1495,Borbon,36-46,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,18,144
+1496,Borbon,<36,hombre,mestizo,soltero,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,treatment,none,store,no,4,22,162
+1497,Borbon,47-60,hombre,mestizo,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,3,4,88
+1498,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,0,96
+1501,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,4,20,156
+1503,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,5,21,162
+1504,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,22,162
+1505,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,4,20,156
+1506,Borbon,<36,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,16,120
+1508,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,16,120
+1509,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,1,16,120
+1511,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,1,16,120
+1512,Borbon,<36,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,16,136
+1513,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,16,136
+1514,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,20,152
+1515,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1516,Borbon,<36,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,16,120
+1517,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,17,140
+1518,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,1,19,138
+1519,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1520,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1521,Borbon,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1522,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1523,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,20,148
+1524,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1525,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1526,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1528,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,2,18,138
+1529,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,2,16,128
+1532,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1533,Borbon,<36,hombre,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1535,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,3,18,144
+1536,Borbon,47-60,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,19,148
+1537,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,18,138
+1539,Borbon,36-46,hombre,mestizo,soltero,Small (up to 3),No,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,18,144
+1543,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,16,128
+1545,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,treatment,none,store,no,2,18,138
+1546,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,16,128
+1547,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,18,144
+1549,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1551,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,19,148
+1552,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1553,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1556,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1558,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,No bottled water,single,no,none,none,store,no,3,20,152
+1559,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1562,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1563,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),No,Interrupted,>394,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1564,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1568,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1569,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1570,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,3,18,144
+1571,Borbon,<36,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1574,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1575,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1578,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,18,138
+1579,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,1,16,120
+1580,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,1,16,120
+1581,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,18,138
+1586,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,3,18,144
+1588,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,18,138
+1589,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,16,120
+1590,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1591,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,18,138
+1592,Borbon,>60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1593,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1594,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1595,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1596,Borbon,47-60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1599,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,18,138
+1600,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1601,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,3,18,144
+1602,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,19,143
+1603,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,no store,yes,2,16,128
+1604,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1605,Borbon,<36,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1606,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1609,Borbon,47-60,hombre,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,3,18,144
+1611,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,treatment,none,store,no,3,18,144
+1613,Borbon,>60,mujer/otro,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1614,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1615,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,2,18,138
+1616,Borbon,>60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,18,138
+1618,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1619,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1622,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1624,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,17,133
+1625,Borbon,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,18,138
+1627,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1628,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1629,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1630,Borbon,>60,hombre,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1631,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1632,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1635,Borbon,36-46,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1639,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1640,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1641,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1642,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,3,18,144
+1643,Borbon,<36,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,3,18,144
+1643,Borbon,<36,hombre,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,none,store,no,3,18,144
+1644,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1646,Borbon,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1648,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1652,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,16,136
+1654,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1657,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1658,Borbon,47-60,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1659,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1660,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,18,144
+1661,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1663,Borbon,>60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,3,18,144
+1665,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1667,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1668,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,16,136
+1672,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,16,128
+1674,Borbon,<36,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,1,18,132
+1675,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,18,132
+1676,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,1,19,138
+1677,Borbon,>60,hombre,mestizo,divorced/separated/widowed,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1678,Borbon,<36,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,18,138
+1682,Borbon,36-46,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),No,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1684,Borbon,36-46,mujer/otro,mestizo,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,17,140
+1685,Borbon,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,17,133
+1686,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,17,133
+1687,Borbon,<36,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,1,20,144
+1688,Borbon,47-60,mujer/otro,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,yes,1,20,144
+1691,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,3,18,144
+1697,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,2,18,138
+1700,Borbon,>60,hombre,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,3,18,144
+1701,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,3,17,140
+1705,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,18,144
+1707,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,2,17,133
+1708,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,3,17,140
+1709,Borbon,<36,hombre,mestizo,casado.o.union.libre,Large (more than 6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,18,138
+1711,Borbon,36-46,hombre,mestizo,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,16,136
+1712,Borbon,36-46,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,16,136
+1713,Borbon,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,No bottled water,multiple,no,none,none,store,no,3,18,144
+1715,Borbon,47-60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,3,16,136
+1717,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,single,no,none,none,store,no,3,18,144
+1734,Borbon,>60,hombre,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,16,128
+1740,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,none,none,no store,no,4,19,153
+1841,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,yes,4,18,150
+1845,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,>394,Adult man,Bottled water,multiple,no,none,none,store,yes,3,19,148
+1846,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,16,144
+75,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,Skipped,Adult woman,No bottled water,multiple,no,none,none,no store,no,2,12,108
+91,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,multiple,no,none,none,store,no,2,21,153
+94,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,3,19,148
+96,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,treatment,no store,no,4,21,159
+102,Timbire,<36,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,multiple,yes,none,none,no store,no,0,4,28
+110,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,0,6,42
+114,Timbire,47-60,hombre,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,yes,none,none,no store,no,0,4,28
+119,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,5,21,162
+121,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,4,28
+125,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,>394,Adult woman,Bottled water,single,yes,treatment,none,store,no,6,23,167
+129,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,4,28
+131,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,store,no,0,4,28
+131,Maldonado,36-46,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,5,21,162
+132,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,>394,Adult man,Bottled water,single,no,none,treatment,store,no,5,16,152
+136,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,treatment,treatment,store,no,0,4,28
+136,Timbire,36-46,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,<= $394,Adult man,No bottled water,multiple,yes,none,treatment,store,no,0,4,28
+149,Timbire,36-46,mujer/otro,mestizo,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,4,28
+168,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,>394,Adult man,Bottled water,single,no,treatment,none,store,no,0,0,0
+179,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,9,63
+181,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,no store,no,0,4,28
+182,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,single,no,none,none,store,no,2,21,153
+187,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,No bottled water,single,yes,none,none,store,no,2,19,143
+198,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,No bottled water,single,no,none,treatment,no store,no,0,23,161
+206,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,5,9,138
+213,Timbire,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,treatment,store,no,0,4,28
+225,Maldonado,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,yes,2,21,153
+226,Timbire,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),Yes,Interrupted,<= $394,Adult man,No bottled water,multiple,no,none,none,no store,no,0,4,28
+246,Maldonado,>60,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,no,2,21,153
+282,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,yes,4,20,156
+291,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,Skipped,Adult man,No bottled water,multiple,no,none,none,store,no,0,22,154
+297,Borbon,>60,hombre,chachi,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,16,144
+307,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,single,no,none,none,store,no,1,22,156
+311,Maldonado,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,2,22,158
+320,Maldonado,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,0,21,147
+320,Maldonado,47-60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+342,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+346,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,0,21,147
+350,Maldonado,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+379,Maldonado,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+405,Maldonado,47-60,hombre,chachi,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,0,21,147
+427,Maldonado,>60,hombre,mestizo,casado.o.union.libre,Medium (4-6),Yes,Interrupted,Skipped,Adult woman,Bottled water,single,no,none,none,store,no,4,9,123
+441,Maldonado,>60,hombre,chachi,casado.o.union.libre,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,yes,0,21,147
+448,Maldonado,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,1,21,150
+455,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,Skipped,Adult woman,Bottled water,single,no,none,none,store,yes,5,20,160
+461,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),No,Continuous,>394,Adult woman,Bottled water,single,no,none,none,store,yes,3,21,156
+478,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult woman,Bottled water,single,no,treatment,none,store,yes,5,23,166
+482,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Interrupted,>394,Adult woman,Bottled water,single,no,none,none,store,no,0,21,147
+488,Maldonado,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,1,22,156
+497,Maldonado,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,Bottled water,multiple,no,none,none,store,no,2,22,158
+540,Borbon,<36,hombre,chachi,casado.o.union.libre,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,none,store,yes,5,23,166
+550,Borbon,47-60,hombre,chachi,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,2,18,138
+581,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+612,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,single,no,none,none,store,no,4,21,159
+650,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,3,20,152
+650,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Large (more than 6),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,3,20,152
+670,Borbon,47-60,hombre,afro-ecuatoriano,soltero,Medium (4-6),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,treatment,store,no,5,17,154
+676,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,2,18,138
+679,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,multiple,no,none,none,no store,no,3,19,148
+682,Borbon,>60,mujer/otro,afro-ecuatoriano,divorced/separated/widowed,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,No bottled water,multiple,no,none,none,store,no,3,19,148
+703,Borbon,47-60,mujer/otro,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,treatment,none,store,no,5,21,162
+723,Borbon,47-60,mujer/otro,chachi,soltero,Small (up to 3),Yes,Interrupted,>394,Adult man,Bottled water,single,no,none,none,store,no,4,21,159
+725,Borbon,>60,hombre,afro-ecuatoriano,soltero,Small (up to 3),No,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,21,159
+752,Borbon,>60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+770,Borbon,47-60,hombre,chachi,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,5,21,162
+771,Borbon,>60,hombre,chachi,soltero,Large (more than 6),Yes,Interrupted,<= $394,Adult man,Bottled water,multiple,no,treatment,none,store,no,2,21,153
+801,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Interrupted,<= $394,Adult woman,Bottled water,single,no,none,none,store,no,4,20,156
+837,Borbon,36-46,mujer/otro,chachi,soltero,Large (more than 6),Yes,Interrupted,>394,Adult man,No bottled water,single,no,treatment,treatment,store,yes,5,18,156
+878,Borbon,47-60,mujer/otro,chachi,divorced/separated/widowed,Small (up to 3),Yes,Continuous,Skipped,Adult man,Bottled water,single,no,none,treatment,no store,yes,2,21,153
+896,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,>394,Adult man,Bottled water,single,no,treatment,none,store,no,3,19,148
+901,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult man,Bottled water,single,no,treatment,none,store,no,2,19,143
+908,Borbon,<36,hombre,chachi,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,treatment,none,store,yes,4,20,156
+921,Borbon,36-46,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,none,store,no,4,19,153
+949,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),Yes,Interrupted,<= $394,Adult woman,Bottled water,single,no,treatment,none,no store,yes,4,21,159
+976,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),Yes,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,4,22,162
+990,Borbon,47-60,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,Skipped,Adult man,Bottled water,multiple,no,none,none,store,no,2,22,158
+1021,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Large (more than 6),No,Continuous,<= $394,Adult man,Bottled water,single,no,none,none,store,no,3,19,148
+1033,Borbon,36-46,hombre,afro-ecuatoriano,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult man,No bottled water,single,no,none,none,no store,no,3,20,152
+1045,Borbon,<36,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Continuous,>394,Adult man,Bottled water,single,no,none,none,store,no,2,16,128
+1082,Borbon,<36,mujer/otro,afro-ecuatoriano,soltero,Small (up to 3),No,Continuous,<= $394,Adult woman,Bottled water,single,no,none,none,no store,no,3,19,148
+1115,Borbon,>60,hombre,afro-ecuatoriano,casado.o.union.libre,Medium (4-6),Yes,Continuous,Skipped,Adult man,Bottled water,multiple,no,treatment,none,store,no,6,19,163
+1164,Borbon,36-46,hombre,afro-ecuatoriano,casado.o.union.libre,Small (up to 3),No,Interrupted,Skipped,Adult man,Bottled water,single,no,treatment,none,store,no,4,22,162
+1293,Borbon,47-60,mujer/otro,afro-ecuatoriano,soltero,Medium (4-6),No,Continuous,<= $394,Adult woman,No bottled water,single,no,treatment,treatment,store,no,3,21,156
+1303,Borbon,>60,mujer/otro,chachi,soltero,Small (up to 3),Yes,Continuous,<= $394,Adult woman,Bottled water,single,no,treatment,treatment,store,no,4,21,159
